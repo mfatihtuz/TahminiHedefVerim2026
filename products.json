@@ -1,0 +1,3737 @@
+{
+  "20020": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 85.0
+  },
+  "20020OPT": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 85.0
+  },
+  "20023": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 95.0
+  },
+  "22010": {
+    "devir": 170.0,
+    "verim": 87.0,
+    "gramaj": 160.0
+  },
+  "23010": {
+    "devir": 64.0,
+    "verim": 45.66,
+    "gramaj": 207.0
+  },
+  "30011": {
+    "devir": 115.0,
+    "verim": 88.0,
+    "gramaj": 86.0
+  },
+  "30011OPT": {
+    "devir": 115.0,
+    "verim": 91.0,
+    "gramaj": 86.0
+  },
+  "30012": {
+    "devir": 130.0,
+    "verim": 84.0,
+    "gramaj": 81.0
+  },
+  "30012OPT": {
+    "devir": 130.0,
+    "verim": 84.0,
+    "gramaj": 81.0
+  },
+  "30020": {
+    "devir": 115.0,
+    "verim": 85.0,
+    "gramaj": 103.0
+  },
+  "30020OPT": {
+    "devir": 115.0,
+    "verim": 92.0,
+    "gramaj": 103.0
+  },
+  "30030": {
+    "devir": 130.0,
+    "verim": 88.0,
+    "gramaj": 90.0
+  },
+  "30030OPT": {
+    "devir": 130.0,
+    "verim": 88.0,
+    "gramaj": 90.0
+  },
+  "ADA302": {
+    "devir": 86.0,
+    "verim": 79.0,
+    "gramaj": 137.0
+  },
+  "ADA315": {
+    "devir": 86.0,
+    "verim": 87.0,
+    "gramaj": 187.0
+  },
+  "ADA332": {
+    "devir": 78.0,
+    "verim": 80.0,
+    "gramaj": 207.0
+  },
+  "ADA340": {
+    "devir": 78.0,
+    "verim": 80.0,
+    "gramaj": 232.0
+  },
+  "ADA348": {
+    "devir": 62.0,
+    "verim": 87.0,
+    "gramaj": 282.0
+  },
+  "ADA355": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 226.0
+  },
+  "ADA363": {
+    "devir": 65.0,
+    "verim": 80.0,
+    "gramaj": 265.0
+  },
+  "ADA371": {
+    "devir": 63.0,
+    "verim": 80.0,
+    "gramaj": 313.0
+  },
+  "ADA382": {
+    "devir": 60.0,
+    "verim": 88.0,
+    "gramaj": 335.0
+  },
+  "ADA389": {
+    "devir": 64.0,
+    "verim": 85.0,
+    "gramaj": 271.0
+  },
+  "ADA408": {
+    "devir": 75.0,
+    "verim": 89.0,
+    "gramaj": 185.0
+  },
+  "ADA415": {
+    "devir": 65.0,
+    "verim": 88.0,
+    "gramaj": 255.0
+  },
+  "ADR03": {
+    "devir": 82.0,
+    "verim": 88.0,
+    "gramaj": 120.0
+  },
+  "ADR05": {
+    "devir": 70.0,
+    "verim": 89.0,
+    "gramaj": 230.0
+  },
+  "ADR15": {
+    "devir": 63.0,
+    "verim": 88.0,
+    "gramaj": 270.0
+  },
+  "ADR25": {
+    "devir": 61.0,
+    "verim": 87.0,
+    "gramaj": 300.0
+  },
+  "ADR340": {
+    "devir": 53.0,
+    "verim": 80.0,
+    "gramaj": 398.0
+  },
+  "AJD265": {
+    "devir": 84.0,
+    "verim": 90.0,
+    "gramaj": 100.0
+  },
+  "AJD268": {
+    "devir": 84.0,
+    "verim": 90.0,
+    "gramaj": 100.0
+  },
+  "AJD315": {
+    "devir": 85.0,
+    "verim": 88.0,
+    "gramaj": 195.0
+  },
+  "AKC318": {
+    "devir": 80.0,
+    "verim": 84.0,
+    "gramaj": 178.0
+  },
+  "ALA568": {
+    "devir": 60.0,
+    "verim": 84.0,
+    "gramaj": 266.0
+  },
+  "ALN240": {
+    "devir": 90.0,
+    "verim": 90.0,
+    "gramaj": 145.0
+  },
+  "ALN260": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 210.0
+  },
+  "ALN290": {
+    "devir": 22.0,
+    "verim": 90.0,
+    "gramaj": 1020.0
+  },
+  "ALV213": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "ALY276": {
+    "devir": 78.0,
+    "verim": 91.0,
+    "gramaj": 110.0
+  },
+  "ALY326": {
+    "devir": 82.0,
+    "verim": 89.0,
+    "gramaj": 155.0
+  },
+  "ANG587": {
+    "devir": 56.0,
+    "verim": 82.0,
+    "gramaj": 355.0
+  },
+  "AOS346": {
+    "devir": 78.0,
+    "verim": 85.0,
+    "gramaj": 265.0
+  },
+  "AOS378": {
+    "devir": 70.0,
+    "verim": 85.0,
+    "gramaj": 300.0
+  },
+  "APL226": {
+    "devir": 150.0,
+    "verim": 85.0,
+    "gramaj": 190.0
+  },
+  "APL236": {
+    "devir": 124.0,
+    "verim": 86.0,
+    "gramaj": 240.0
+  },
+  "APL256": {
+    "devir": 96.0,
+    "verim": 83.0,
+    "gramaj": 325.0
+  },
+  "ARA209": {
+    "devir": 84.0,
+    "verim": 91.0,
+    "gramaj": 70.0
+  },
+  "ARA212": {
+    "devir": 82.0,
+    "verim": 90.0,
+    "gramaj": 155.0
+  },
+  "ARA218": {
+    "devir": 86.0,
+    "verim": 93.0,
+    "gramaj": 205.0
+  },
+  "ARA233": {
+    "devir": 62.0,
+    "verim": 90.0,
+    "gramaj": 270.0
+  },
+  "ARA263": {
+    "devir": 60.0,
+    "verim": 86.0,
+    "gramaj": 285.0
+  },
+  "ARA265": {
+    "devir": 54.0,
+    "verim": 91.0,
+    "gramaj": 325.0
+  },
+  "ARA270": {
+    "devir": 50.0,
+    "verim": 88.0,
+    "gramaj": 375.0
+  },
+  "ARA277": {
+    "devir": 40.0,
+    "verim": 85.0,
+    "gramaj": 460.0
+  },
+  "ARA420": {
+    "devir": 55.0,
+    "verim": 75.0,
+    "gramaj": 250.0
+  },
+  "ARG285": {
+    "devir": 30.0,
+    "verim": 90.0,
+    "gramaj": 510.0
+  },
+  "ARG60": {
+    "devir": 84.0,
+    "verim": 90.0,
+    "gramaj": 67.0
+  },
+  "ARG62": {
+    "devir": 90.0,
+    "verim": 90.0,
+    "gramaj": 145.0
+  },
+  "ARG63": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 232.0
+  },
+  "ARG69": {
+    "devir": 22.0,
+    "verim": 88.0,
+    "gramaj": 975.0
+  },
+  "ARH406": {
+    "devir": 80.0,
+    "verim": 70.0,
+    "gramaj": 90.0
+  },
+  "ARH426": {
+    "devir": 53.0,
+    "verim": 80.0,
+    "gramaj": 415.0
+  },
+  "ARH430": {
+    "devir": 65.0,
+    "verim": 85.0,
+    "gramaj": 330.0
+  },
+  "ARH440": {
+    "devir": 50.0,
+    "verim": 82.0,
+    "gramaj": 445.0
+  },
+  "ARH447": {
+    "devir": 18.0,
+    "verim": 70.0,
+    "gramaj": 570.0
+  },
+  "ARH724": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 225.0
+  },
+  "ARH725": {
+    "devir": 54.0,
+    "verim": 65.0,
+    "gramaj": 265.0
+  },
+  "ARH730": {
+    "devir": 50.0,
+    "verim": 65.0,
+    "gramaj": 350.0
+  },
+  "ARH747": {
+    "devir": 50.0,
+    "verim": 65.0,
+    "gramaj": 400.0
+  },
+  "ARI10": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "ARI208": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 140.0
+  },
+  "ARS05": {
+    "devir": 72.0,
+    "verim": 89.0,
+    "gramaj": 214.0
+  },
+  "ARS15": {
+    "devir": 67.0,
+    "verim": 89.0,
+    "gramaj": 301.0
+  },
+  "ARS25": {
+    "devir": 62.0,
+    "verim": 88.0,
+    "gramaj": 285.0
+  },
+  "ART226": {
+    "devir": 150.0,
+    "verim": 85.0,
+    "gramaj": 190.0
+  },
+  "ART236": {
+    "devir": 124.0,
+    "verim": 86.0,
+    "gramaj": 240.0
+  },
+  "ART237": {
+    "devir": 124.0,
+    "verim": 86.0,
+    "gramaj": 240.0
+  },
+  "ART256": {
+    "devir": 96.0,
+    "verim": 83.0,
+    "gramaj": 325.0
+  },
+  "ART267": {
+    "devir": 78.0,
+    "verim": 91.0,
+    "gramaj": 210.0
+  },
+  "ART269": {
+    "devir": 84.0,
+    "verim": 91.0,
+    "gramaj": 110.0
+  },
+  "ART297": {
+    "devir": 20.0,
+    "verim": 87.0,
+    "gramaj": 1050.0
+  },
+  "ARY323": {
+    "devir": 63.0,
+    "verim": 82.0,
+    "gramaj": 237.0
+  },
+  "ARY340": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 225.0
+  },
+  "ARY359": {
+    "devir": 62.0,
+    "verim": 84.0,
+    "gramaj": 282.0
+  },
+  "ARY508": {
+    "devir": 83.0,
+    "verim": 78.0,
+    "gramaj": 112.0
+  },
+  "ARY523": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 237.0
+  },
+  "ARY540": {
+    "devir": 62.0,
+    "verim": 75.0,
+    "gramaj": 226.0
+  },
+  "ARY559": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 282.0
+  },
+  "ASN274": {
+    "devir": 84.0,
+    "verim": 92.0,
+    "gramaj": 85.0
+  },
+  "ASN314": {
+    "devir": 90.0,
+    "verim": 88.0,
+    "gramaj": 150.0
+  },
+  "ATK212": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "ATK232": {
+    "devir": 69.0,
+    "verim": 68.37,
+    "gramaj": 210.0
+  },
+  "ATK252": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 265.0
+  },
+  "ATM321": {
+    "devir": 62.0,
+    "verim": 84.0,
+    "gramaj": 290.0
+  },
+  "ATM339": {
+    "devir": 58.0,
+    "verim": 83.0,
+    "gramaj": 340.0
+  },
+  "ATM373": {
+    "devir": 56.0,
+    "verim": 84.0,
+    "gramaj": 361.0
+  },
+  "AYD273": {
+    "devir": 78.0,
+    "verim": 90.0,
+    "gramaj": 95.0
+  },
+  "AYD335": {
+    "devir": 90.0,
+    "verim": 85.0,
+    "gramaj": 138.0
+  },
+  "AYR034": {
+    "devir": 160.0,
+    "verim": 75.0,
+    "gramaj": 291.0
+  },
+  "AZN10": {
+    "devir": 78.0,
+    "verim": 88.0,
+    "gramaj": 190.0
+  },
+  "AZN15": {
+    "devir": 82.0,
+    "verim": 87.0,
+    "gramaj": 202.0
+  },
+  "AZN25": {
+    "devir": 68.0,
+    "verim": 87.0,
+    "gramaj": 247.0
+  },
+  "BAE523": {
+    "devir": 66.0,
+    "verim": 52.99,
+    "gramaj": 205.0
+  },
+  "BAE560": {
+    "devir": 60.0,
+    "verim": 50.92,
+    "gramaj": 250.0
+  },
+  "BAH10": {
+    "devir": 72.0,
+    "verim": 87.2,
+    "gramaj": 200.0
+  },
+  "BAH207": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 145.0
+  },
+  "BAR26": {
+    "devir": 78.0,
+    "verim": 86.0,
+    "gramaj": 266.0
+  },
+  "BAR30": {
+    "devir": 78.0,
+    "verim": 85.0,
+    "gramaj": 255.0
+  },
+  "BAR50": {
+    "devir": 62.0,
+    "verim": 85.0,
+    "gramaj": 376.0
+  },
+  "BBS63": {
+    "devir": 84.0,
+    "verim": 91.0,
+    "gramaj": 230.0
+  },
+  "BDG384": {
+    "devir": 90.0,
+    "verim": 87.0,
+    "gramaj": 185.0
+  },
+  "BDG386": {
+    "devir": 80.0,
+    "verim": 87.0,
+    "gramaj": 250.0
+  },
+  "BDG392": {
+    "devir": 72.0,
+    "verim": 85.0,
+    "gramaj": 338.0
+  },
+  "BDX385": {
+    "devir": 87.0,
+    "verim": 84.0,
+    "gramaj": 218.0
+  },
+  "BDX387": {
+    "devir": 80.0,
+    "verim": 87.0,
+    "gramaj": 258.0
+  },
+  "BDX393": {
+    "devir": 72.0,
+    "verim": 87.0,
+    "gramaj": 346.0
+  },
+  "BKT270": {
+    "devir": 82.0,
+    "verim": 92.0,
+    "gramaj": 110.0
+  },
+  "BLA150": {
+    "devir": 57.0,
+    "verim": 85.0,
+    "gramaj": 750.0
+  },
+  "BLK364": {
+    "devir": 75.0,
+    "verim": 85.0,
+    "gramaj": 293.0
+  },
+  "BLK374": {
+    "devir": 75.0,
+    "verim": 90.0,
+    "gramaj": 293.0
+  },
+  "BLK388": {
+    "devir": 60.0,
+    "verim": 89.0,
+    "gramaj": 385.0
+  },
+  "BLK394": {
+    "devir": 55.0,
+    "verim": 84.0,
+    "gramaj": 460.0
+  },
+  "BLK574": {
+    "devir": 62.0,
+    "verim": 86.0,
+    "gramaj": 290.0
+  },
+  "BLK585": {
+    "devir": 57.0,
+    "verim": 74.0,
+    "gramaj": 390.0
+  },
+  "BLK588": {
+    "devir": 57.0,
+    "verim": 78.0,
+    "gramaj": 390.0
+  },
+  "BLK594": {
+    "devir": 50.0,
+    "verim": 72.0,
+    "gramaj": 460.0
+  },
+  "BLO120": {
+    "devir": 52.0,
+    "verim": 75.0,
+    "gramaj": 830.0
+  },
+  "BNB383": {
+    "devir": 58.0,
+    "verim": 75.0,
+    "gramaj": 270.0
+  },
+  "BOS332": {
+    "devir": 60.0,
+    "verim": 73.0,
+    "gramaj": 317.0
+  },
+  "BOS349": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 335.0
+  },
+  "BOS377": {
+    "devir": 52.0,
+    "verim": 59.0,
+    "gramaj": 468.0
+  },
+  "BRM377": {
+    "devir": 56.0,
+    "verim": 85.0,
+    "gramaj": 405.0
+  },
+  "BRN237": {
+    "devir": 130.0,
+    "verim": 85.0,
+    "gramaj": 225.0
+  },
+  "BRO19": {
+    "devir": 67.0,
+    "verim": 85.0,
+    "gramaj": 286.0
+  },
+  "BRO29": {
+    "devir": 56.0,
+    "verim": 84.0,
+    "gramaj": 425.0
+  },
+  "BRS596": {
+    "devir": 58.0,
+    "verim": 82.0,
+    "gramaj": 370.0
+  },
+  "BRT430": {
+    "devir": 68.0,
+    "verim": 86.0,
+    "gramaj": 315.0
+  },
+  "BRT440": {
+    "devir": 58.0,
+    "verim": 84.0,
+    "gramaj": 360.0
+  },
+  "BRY387": {
+    "devir": 80.0,
+    "verim": 80.0,
+    "gramaj": 190.0
+  },
+  "BRY398": {
+    "devir": 80.0,
+    "verim": 83.0,
+    "gramaj": 195.0
+  },
+  "BST311": {
+    "devir": 100.0,
+    "verim": 87.0,
+    "gramaj": 145.0
+  },
+  "BUR25": {
+    "devir": 50.0,
+    "verim": 86.0,
+    "gramaj": 330.0
+  },
+  "BUR62": {
+    "devir": 86.0,
+    "verim": 92.0,
+    "gramaj": 145.0
+  },
+  "BUR63": {
+    "devir": 84.0,
+    "verim": 91.0,
+    "gramaj": 230.0
+  },
+  "BUR69": {
+    "devir": 22.0,
+    "verim": 90.0,
+    "gramaj": 1040.0
+  },
+  "CAN335": {
+    "devir": 83.0,
+    "verim": 80.0,
+    "gramaj": 255.0
+  },
+  "CAP343": {
+    "devir": 68.0,
+    "verim": 89.0,
+    "gramaj": 220.0
+  },
+  "CEK385": {
+    "devir": 83.0,
+    "verim": 83.0,
+    "gramaj": 178.0
+  },
+  "CEK391": {
+    "devir": 87.0,
+    "verim": 86.0,
+    "gramaj": 180.0
+  },
+  "CEK398": {
+    "devir": 84.0,
+    "verim": 85.0,
+    "gramaj": 202.0
+  },
+  "CHF322": {
+    "devir": 115.0,
+    "verim": 89.0,
+    "gramaj": 86.0
+  },
+  "CHL211": {
+    "devir": 78.0,
+    "verim": 90.0,
+    "gramaj": 75.0
+  },
+  "CLE339": {
+    "devir": 70.0,
+    "verim": 75.0,
+    "gramaj": 196.0
+  },
+  "CLE362": {
+    "devir": 66.0,
+    "verim": 70.0,
+    "gramaj": 250.0
+  },
+  "CLM622": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 200.0
+  },
+  "CLM635": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 225.0
+  },
+  "CLM647": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 250.0
+  },
+  "CLM658": {
+    "devir": 56.0,
+    "verim": 70.0,
+    "gramaj": 285.0
+  },
+  "CLS340": {
+    "devir": 62.0,
+    "verim": 84.0,
+    "gramaj": 260.0
+  },
+  "CLS351": {
+    "devir": 60.0,
+    "verim": 82.0,
+    "gramaj": 320.0
+  },
+  "COM595": {
+    "devir": 58.0,
+    "verim": 82.0,
+    "gramaj": 370.0
+  },
+  "COZ258": {
+    "devir": 78.0,
+    "verim": 88.0,
+    "gramaj": 125.0
+  },
+  "COZ268": {
+    "devir": 66.0,
+    "verim": 88.0,
+    "gramaj": 235.0
+  },
+  "COZ409": {
+    "devir": 85.0,
+    "verim": 82.0,
+    "gramaj": 95.0
+  },
+  "COZ427": {
+    "devir": 70.0,
+    "verim": 84.0,
+    "gramaj": 195.0
+  },
+  "COZ450": {
+    "devir": 58.0,
+    "verim": 82.0,
+    "gramaj": 330.0
+  },
+  "CRE10": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 215.0
+  },
+  "CRE367": {
+    "devir": 64.0,
+    "verim": 80.0,
+    "gramaj": 270.0
+  },
+  "CRM525": {
+    "devir": 63.0,
+    "verim": 78.0,
+    "gramaj": 240.0
+  },
+  "CRM534": {
+    "devir": 60.0,
+    "verim": 75.0,
+    "gramaj": 251.0
+  },
+  "CRM554": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 290.0
+  },
+  "CUB225": {
+    "devir": 70.0,
+    "verim": 91.0,
+    "gramaj": 225.0
+  },
+  "CUB235": {
+    "devir": 54.0,
+    "verim": 90.0,
+    "gramaj": 275.0
+  },
+  "CUB238": {
+    "devir": 24.0,
+    "verim": 85.0,
+    "gramaj": 670.0
+  },
+  "DEF226": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 190.0
+  },
+  "DEF244": {
+    "devir": 70.0,
+    "verim": 87.0,
+    "gramaj": 180.0
+  },
+  "DEF247": {
+    "devir": 50.0,
+    "verim": 85.0,
+    "gramaj": 250.0
+  },
+  "DEF255": {
+    "devir": 50.0,
+    "verim": 87.0,
+    "gramaj": 303.0
+  },
+  "DEF267": {
+    "devir": 26.0,
+    "verim": 88.0,
+    "gramaj": 420.0
+  },
+  "DER223": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "DES55": {
+    "devir": 60.0,
+    "verim": 86.0,
+    "gramaj": 306.0
+  },
+  "DIA03": {
+    "devir": 94.0,
+    "verim": 86.0,
+    "gramaj": 111.0
+  },
+  "DIA05": {
+    "devir": 80.0,
+    "verim": 89.0,
+    "gramaj": 208.0
+  },
+  "DIA15": {
+    "devir": 65.0,
+    "verim": 89.0,
+    "gramaj": 276.0
+  },
+  "DIA25": {
+    "devir": 70.0,
+    "verim": 88.0,
+    "gramaj": 275.0
+  },
+  "DIA352": {
+    "devir": 58.0,
+    "verim": 79.0,
+    "gramaj": 366.0
+  },
+  "DID353": {
+    "devir": 65.0,
+    "verim": 85.0,
+    "gramaj": 282.0
+  },
+  "DIM359": {
+    "devir": 71.0,
+    "verim": 90.0,
+    "gramaj": 225.0
+  },
+  "DIV278": {
+    "devir": 78.0,
+    "verim": 87.0,
+    "gramaj": 95.0
+  },
+  "DIV317": {
+    "devir": 95.0,
+    "verim": 86.0,
+    "gramaj": 141.0
+  },
+  "DML241": {
+    "devir": 78.0,
+    "verim": 92.0,
+    "gramaj": 140.0
+  },
+  "DML262": {
+    "devir": 80.0,
+    "verim": 92.0,
+    "gramaj": 226.0
+  },
+  "DML273": {
+    "devir": 46.0,
+    "verim": 91.0,
+    "gramaj": 322.0
+  },
+  "DML280": {
+    "devir": 25.0,
+    "verim": 89.0,
+    "gramaj": 520.0
+  },
+  "DML293": {
+    "devir": 22.0,
+    "verim": 84.0,
+    "gramaj": 1050.0
+  },
+  "DML324": {
+    "devir": 62.0,
+    "verim": 86.0,
+    "gramaj": 275.0
+  },
+  "DMT270": {
+    "devir": 81.0,
+    "verim": 92.0,
+    "gramaj": 105.0
+  },
+  "DMT303": {
+    "devir": 105.0,
+    "verim": 89.0,
+    "gramaj": 142.0
+  },
+  "DMT303OPT": {
+    "devir": 105.0,
+    "verim": 89.0,
+    "gramaj": 142.0
+  },
+  "DRN208": {
+    "devir": 84.0,
+    "verim": 89.0,
+    "gramaj": 65.0
+  },
+  "DRN238": {
+    "devir": 80.0,
+    "verim": 89.0,
+    "gramaj": 105.0
+  },
+  "DRN250": {
+    "devir": 28.0,
+    "verim": 78.0,
+    "gramaj": 300.0
+  },
+  "DRN258": {
+    "devir": 76.0,
+    "verim": 88.0,
+    "gramaj": 150.0
+  },
+  "DRN278": {
+    "devir": 76.0,
+    "verim": 90.0,
+    "gramaj": 100.0
+  },
+  "DRN298": {
+    "devir": 19.0,
+    "verim": 85.0,
+    "gramaj": 880.0
+  },
+  "DRN307": {
+    "devir": 92.0,
+    "verim": 85.0,
+    "gramaj": 154.0
+  },
+  "DRN312": {
+    "devir": 85.0,
+    "verim": 88.0,
+    "gramaj": 170.0
+  },
+  "DRN356": {
+    "devir": 79.0,
+    "verim": 85.0,
+    "gramaj": 262.0
+  },
+  "DRN372": {
+    "devir": 75.0,
+    "verim": 85.0,
+    "gramaj": 295.0
+  },
+  "DRU219": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "DUO037": {
+    "devir": 73.0,
+    "verim": 75.0,
+    "gramaj": 245.0
+  },
+  "DUO100": {
+    "devir": 54.0,
+    "verim": 83.0,
+    "gramaj": 340.0
+  },
+  "DUO140": {
+    "devir": 53.0,
+    "verim": 75.0,
+    "gramaj": 440.0
+  },
+  "DUO393": {
+    "devir": 76.0,
+    "verim": 85.0,
+    "gramaj": 225.0
+  },
+  "DUO399": {
+    "devir": 75.0,
+    "verim": 85.0,
+    "gramaj": 282.0
+  },
+  "DUR306": {
+    "devir": 103.0,
+    "verim": 89.0,
+    "gramaj": 132.0
+  },
+  "DUR306OPT": {
+    "devir": 95.0,
+    "verim": 91.0,
+    "gramaj": 132.0
+  },
+  "DUR331": {
+    "devir": 82.0,
+    "verim": 84.0,
+    "gramaj": 185.0
+  },
+  "DYG10": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "EDA269": {
+    "devir": 78.0,
+    "verim": 91.0,
+    "gramaj": 100.0
+  },
+  "EDA332": {
+    "devir": 95.0,
+    "verim": 84.0,
+    "gramaj": 143.0
+  },
+  "EDA63": {
+    "devir": 64.0,
+    "verim": 85.0,
+    "gramaj": 235.0
+  },
+  "EDA69": {
+    "devir": 16.0,
+    "verim": 80.0,
+    "gramaj": 908.0
+  },
+  "EDA74": {
+    "devir": 32.0,
+    "verim": 85.0,
+    "gramaj": 310.0
+  },
+  "EDA92": {
+    "devir": 36.0,
+    "verim": 50.0,
+    "gramaj": 387.0
+  },
+  "EDA94": {
+    "devir": 19.0,
+    "verim": 72.0,
+    "gramaj": 690.0
+  },
+  "EDA96": {
+    "devir": 14.5,
+    "verim": 55.0,
+    "gramaj": 1145.0
+  },
+  "EDENA05": {
+    "devir": 82.0,
+    "verim": 90.0,
+    "gramaj": 130.0
+  },
+  "EFE335": {
+    "devir": 80.0,
+    "verim": 78.0,
+    "gramaj": 175.0
+  },
+  "ELG305": {
+    "devir": 96.0,
+    "verim": 86.0,
+    "gramaj": 105.0
+  },
+  "ELG353": {
+    "devir": 74.0,
+    "verim": 87.0,
+    "gramaj": 210.0
+  },
+  "ELG360": {
+    "devir": 60.0,
+    "verim": 83.0,
+    "gramaj": 310.0
+  },
+  "ELG379": {
+    "devir": 60.0,
+    "verim": 87.0,
+    "gramaj": 295.0
+  },
+  "ELG429": {
+    "devir": 75.0,
+    "verim": 87.0,
+    "gramaj": 155.0
+  },
+  "ELG439": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 265.0
+  },
+  "ELL348": {
+    "devir": 85.0,
+    "verim": 85.0,
+    "gramaj": 210.0
+  },
+  "ELL370": {
+    "devir": 73.0,
+    "verim": 85.0,
+    "gramaj": 255.0
+  },
+  "ELL532": {
+    "devir": 60.0,
+    "verim": 75.0,
+    "gramaj": 228.0
+  },
+  "ELL533": {
+    "devir": 58.0,
+    "verim": 70.0,
+    "gramaj": 228.0
+  },
+  "ELL542": {
+    "devir": 62.0,
+    "verim": 82.0,
+    "gramaj": 222.0
+  },
+  "ELL543": {
+    "devir": 62.0,
+    "verim": 82.0,
+    "gramaj": 222.0
+  },
+  "ELL562": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 256.0
+  },
+  "ELL563": {
+    "devir": 60.0,
+    "verim": 79.0,
+    "gramaj": 256.0
+  },
+  "ELL582": {
+    "devir": 59.0,
+    "verim": 80.0,
+    "gramaj": 292.0
+  },
+  "ELL583": {
+    "devir": 59.0,
+    "verim": 78.0,
+    "gramaj": 292.0
+  },
+  "ELS242": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 145.0
+  },
+  "ELS262": {
+    "devir": 84.0,
+    "verim": 91.0,
+    "gramaj": 200.0
+  },
+  "ELS292": {
+    "devir": 22.0,
+    "verim": 91.0,
+    "gramaj": 1040.0
+  },
+  "ELT03": {
+    "devir": 95.0,
+    "verim": 87.0,
+    "gramaj": 100.0
+  },
+  "ELT05": {
+    "devir": 84.0,
+    "verim": 83.0,
+    "gramaj": 172.0
+  },
+  "ELT15": {
+    "devir": 82.0,
+    "verim": 87.0,
+    "gramaj": 203.0
+  },
+  "ELT25": {
+    "devir": 78.0,
+    "verim": 88.0,
+    "gramaj": 227.0
+  },
+  "EMP364": {
+    "devir": 61.0,
+    "verim": 87.0,
+    "gramaj": 255.0
+  },
+  "EMP368": {
+    "devir": 59.0,
+    "verim": 87.0,
+    "gramaj": 306.0
+  },
+  "EMP541": {
+    "devir": 63.0,
+    "verim": 81.0,
+    "gramaj": 227.0
+  },
+  "EMP548": {
+    "devir": 68.0,
+    "verim": 83.0,
+    "gramaj": 208.0
+  },
+  "EMP553": {
+    "devir": 64.0,
+    "verim": 86.0,
+    "gramaj": 228.0
+  },
+  "EMP568": {
+    "devir": 60.0,
+    "verim": 84.0,
+    "gramaj": 270.0
+  },
+  "EMP571": {
+    "devir": 57.0,
+    "verim": 83.0,
+    "gramaj": 387.0
+  },
+  "EMP573": {
+    "devir": 57.0,
+    "verim": 83.0,
+    "gramaj": 387.0
+  },
+  "EMP583": {
+    "devir": 59.0,
+    "verim": 80.0,
+    "gramaj": 327.0
+  },
+  "EMP595": {
+    "devir": 54.0,
+    "verim": 70.0,
+    "gramaj": 443.0
+  },
+  "EST276": {
+    "devir": 78.0,
+    "verim": 88.0,
+    "gramaj": 105.0
+  },
+  "EST327": {
+    "devir": 86.0,
+    "verim": 85.0,
+    "gramaj": 173.0
+  },
+  "EUR368": {
+    "devir": 60.0,
+    "verim": 88.0,
+    "gramaj": 297.0
+  },
+  "EVA271": {
+    "devir": 72.0,
+    "verim": 85.0,
+    "gramaj": 105.0
+  },
+  "EVA301": {
+    "devir": 86.0,
+    "verim": 84.0,
+    "gramaj": 160.0
+  },
+  "FAM246": {
+    "devir": 76.0,
+    "verim": 88.0,
+    "gramaj": 125.0
+  },
+  "FAM259": {
+    "devir": 70.0,
+    "verim": 88.0,
+    "gramaj": 205.0
+  },
+  "FAM294": {
+    "devir": 20.0,
+    "verim": 80.0,
+    "gramaj": 800.0
+  },
+  "FAM522": {
+    "devir": 63.0,
+    "verim": 83.0,
+    "gramaj": 225.0
+  },
+  "FAM523": {
+    "devir": 63.0,
+    "verim": 81.0,
+    "gramaj": 225.0
+  },
+  "FAM538": {
+    "devir": 60.0,
+    "verim": 76.0,
+    "gramaj": 245.0
+  },
+  "FAM539": {
+    "devir": 62.0,
+    "verim": 75.0,
+    "gramaj": 245.0
+  },
+  "FAM555": {
+    "devir": 60.0,
+    "verim": 84.0,
+    "gramaj": 270.0
+  },
+  "FAM556": {
+    "devir": 60.0,
+    "verim": 82.0,
+    "gramaj": 270.0
+  },
+  "FAM562": {
+    "devir": 58.0,
+    "verim": 84.0,
+    "gramaj": 335.0
+  },
+  "FAM563": {
+    "devir": 58.0,
+    "verim": 82.0,
+    "gramaj": 335.0
+  },
+  "FLZ214": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "FLZ215": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "FNU323": {
+    "devir": 72.0,
+    "verim": 85.0,
+    "gramaj": 247.0
+  },
+  "FON856": {
+    "devir": 55.0,
+    "verim": 70.0,
+    "gramaj": 410.0
+  },
+  "FON886": {
+    "devir": 53.0,
+    "verim": 60.0,
+    "gramaj": 475.0
+  },
+  "FON886OPT": {
+    "devir": 53.0,
+    "verim": 60.0,
+    "gramaj": 480.0
+  },
+  "FRE255": {
+    "devir": 46.0,
+    "verim": 85.0,
+    "gramaj": 435.0
+  },
+  "FRE265": {
+    "devir": 20.0,
+    "verim": 78.0,
+    "gramaj": 710.0
+  },
+  "FRE285": {
+    "devir": 15.0,
+    "verim": 75.0,
+    "gramaj": 1170.0
+  },
+  "FRE510": {
+    "devir": 87.0,
+    "verim": 70.0,
+    "gramaj": 107.0
+  },
+  "FRO378": {
+    "devir": 60.0,
+    "verim": 86.0,
+    "gramaj": 312.0
+  },
+  "FRS226": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 270.0
+  },
+  "FRS227": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 270.0
+  },
+  "FRS228": {
+    "devir": 21.0,
+    "verim": 87.0,
+    "gramaj": 540.0
+  },
+  "FRS236": {
+    "devir": 50.0,
+    "verim": 85.0,
+    "gramaj": 285.0
+  },
+  "FRS237": {
+    "devir": 50.0,
+    "verim": 85.0,
+    "gramaj": 285.0
+  },
+  "FRS239": {
+    "devir": 28.0,
+    "verim": 85.0,
+    "gramaj": 485.0
+  },
+  "FRS246": {
+    "devir": 42.0,
+    "verim": 84.0,
+    "gramaj": 470.0
+  },
+  "FRS247": {
+    "devir": 42.0,
+    "verim": 84.0,
+    "gramaj": 470.0
+  },
+  "FRS248": {
+    "devir": 22.0,
+    "verim": 83.0,
+    "gramaj": 720.0
+  },
+  "FRS249": {
+    "devir": 22.0,
+    "verim": 83.0,
+    "gramaj": 720.0
+  },
+  "FRS257": {
+    "devir": 24.0,
+    "verim": 75.0,
+    "gramaj": 680.0
+  },
+  "FRS259": {
+    "devir": 18.0,
+    "verim": 81.0,
+    "gramaj": 1000.0
+  },
+  "FRS279": {
+    "devir": 16.0,
+    "verim": 78.0,
+    "gramaj": 570.0
+  },
+  "FRS297": {
+    "devir": 14.0,
+    "verim": 68.0,
+    "gramaj": 820.0
+  },
+  "FRS299": {
+    "devir": 13.0,
+    "verim": 73.0,
+    "gramaj": 1165.0
+  },
+  "FST577": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 305.0
+  },
+  "FST593": {
+    "devir": 57.0,
+    "verim": 83.0,
+    "gramaj": 348.0
+  },
+  "GAI331": {
+    "devir": 75.0,
+    "verim": 70.0,
+    "gramaj": 168.0
+  },
+  "GAI342": {
+    "devir": 68.0,
+    "verim": 85.0,
+    "gramaj": 220.0
+  },
+  "GAI361": {
+    "devir": 80.0,
+    "verim": 85.0,
+    "gramaj": 185.0
+  },
+  "GAI365": {
+    "devir": 75.0,
+    "verim": 85.0,
+    "gramaj": 222.0
+  },
+  "GAI369": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 287.0
+  },
+  "GAI373": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 293.0
+  },
+  "GLO325": {
+    "devir": 95.0,
+    "verim": 87.0,
+    "gramaj": 238.0
+  },
+  "GLO327": {
+    "devir": 90.0,
+    "verim": 82.0,
+    "gramaj": 238.0
+  },
+  "GLO329": {
+    "devir": 90.0,
+    "verim": 84.0,
+    "gramaj": 238.0
+  },
+  "GLT339": {
+    "devir": 90.0,
+    "verim": 88.0,
+    "gramaj": 206.0
+  },
+  "GLT397": {
+    "devir": 81.0,
+    "verim": 88.0,
+    "gramaj": 237.0
+  },
+  "GRN395": {
+    "devir": 70.0,
+    "verim": 92.0,
+    "gramaj": 224.0
+  },
+  "GZC406": {
+    "devir": 80.0,
+    "verim": 87.0,
+    "gramaj": 150.0
+  },
+  "HER206": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 75.0
+  },
+  "HER211": {
+    "devir": 86.0,
+    "verim": 90.0,
+    "gramaj": 172.0
+  },
+  "HER228": {
+    "devir": 60.0,
+    "verim": 91.0,
+    "gramaj": 240.0
+  },
+  "HER230": {
+    "devir": 78.0,
+    "verim": 91.0,
+    "gramaj": 205.0
+  },
+  "HER25": {
+    "devir": 54.0,
+    "verim": 88.0,
+    "gramaj": 265.0
+  },
+  "HER271": {
+    "devir": 52.0,
+    "verim": 80.0,
+    "gramaj": 325.0
+  },
+  "HES236": {
+    "devir": 124.0,
+    "verim": 86.0,
+    "gramaj": 240.0
+  },
+  "HES247": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 140.0
+  },
+  "HES256": {
+    "devir": 96.0,
+    "verim": 83.0,
+    "gramaj": 325.0
+  },
+  "HES412": {
+    "devir": 70.0,
+    "verim": 87.0,
+    "gramaj": 265.0
+  },
+  "HES422": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 275.0
+  },
+  "HES432": {
+    "devir": 60.0,
+    "verim": 87.0,
+    "gramaj": 345.0
+  },
+  "HLN346": {
+    "devir": 76.0,
+    "verim": 90.0,
+    "gramaj": 175.0
+  },
+  "HLN356": {
+    "devir": 72.0,
+    "verim": 84.0,
+    "gramaj": 215.0
+  },
+  "HLN376": {
+    "devir": 70.0,
+    "verim": 84.0,
+    "gramaj": 270.0
+  },
+  "HLN386": {
+    "devir": 57.0,
+    "verim": 86.0,
+    "gramaj": 335.0
+  },
+  "HLN427": {
+    "devir": 65.0,
+    "verim": 86.0,
+    "gramaj": 265.0
+  },
+  "HLN887": {
+    "devir": 50.0,
+    "verim": 60.0,
+    "gramaj": 420.0
+  },
+  "HLX524": {
+    "devir": 63.0,
+    "verim": 82.0,
+    "gramaj": 225.0
+  },
+  "HLX545": {
+    "devir": 63.0,
+    "verim": 72.0,
+    "gramaj": 228.0
+  },
+  "HLX558": {
+    "devir": 63.0,
+    "verim": 82.0,
+    "gramaj": 230.0
+  },
+  "HPL438": {
+    "devir": 70.0,
+    "verim": 75.0,
+    "gramaj": 290.0
+  },
+  "HRS230": {
+    "devir": 78.0,
+    "verim": 91.0,
+    "gramaj": 205.0
+  },
+  "HSR274": {
+    "devir": 78.0,
+    "verim": 88.0,
+    "gramaj": 100.0
+  },
+  "ICE226": {
+    "devir": 165.0,
+    "verim": 82.0,
+    "gramaj": 163.0
+  },
+  "INC324": {
+    "devir": 120.0,
+    "verim": 86.0,
+    "gramaj": 92.0
+  },
+  "ISL229": {
+    "devir": 170.0,
+    "verim": 86.0,
+    "gramaj": 155.0
+  },
+  "IST383": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 268.0
+  },
+  "JMB430": {
+    "devir": 70.0,
+    "verim": 86.0,
+    "gramaj": 300.0
+  },
+  "JOY321": {
+    "devir": 90.0,
+    "verim": 85.0,
+    "gramaj": 138.0
+  },
+  "JOY351": {
+    "devir": 74.0,
+    "verim": 85.0,
+    "gramaj": 263.0
+  },
+  "JUL526": {
+    "devir": 61.0,
+    "verim": 80.0,
+    "gramaj": 230.0
+  },
+  "JUL537": {
+    "devir": 60.0,
+    "verim": 75.0,
+    "gramaj": 234.0
+  },
+  "JUL561": {
+    "devir": 60.0,
+    "verim": 77.0,
+    "gramaj": 271.0
+  },
+  "KAPAK1": {
+    "devir": 81.0,
+    "verim": 86.0,
+    "gramaj": 183.0
+  },
+  "KAPAK2": {
+    "devir": 91.0,
+    "verim": 88.0,
+    "gramaj": 96.0
+  },
+  "KAPAK3": {
+    "devir": 87.0,
+    "verim": 85.0,
+    "gramaj": 178.0
+  },
+  "KAPAK4": {
+    "devir": 82.0,
+    "verim": 85.0,
+    "gramaj": 215.0
+  },
+  "KAPAK5": {
+    "devir": 50.0,
+    "verim": 85.0,
+    "gramaj": 240.0
+  },
+  "KAR15": {
+    "devir": 70.0,
+    "verim": 65.81,
+    "gramaj": 212.0
+  },
+  "KAR17": {
+    "devir": 60.0,
+    "verim": 82.0,
+    "gramaj": 285.0
+  },
+  "KAR25": {
+    "devir": 50.0,
+    "verim": 86.0,
+    "gramaj": 330.0
+  },
+  "KAR70": {
+    "devir": 68.0,
+    "verim": 87.0,
+    "gramaj": 145.0
+  },
+  "KAR72": {
+    "devir": 52.0,
+    "verim": 85.0,
+    "gramaj": 260.0
+  },
+  "KEO328": {
+    "devir": 89.0,
+    "verim": 89.0,
+    "gramaj": 121.0
+  },
+  "KEO366": {
+    "devir": 67.0,
+    "verim": 89.0,
+    "gramaj": 282.0
+  },
+  "KEO377": {
+    "devir": 62.0,
+    "verim": 89.0,
+    "gramaj": 303.0
+  },
+  "KLB221": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "KLB231": {
+    "devir": 86.0,
+    "verim": 90.0,
+    "gramaj": 205.0
+  },
+  "KLB266": {
+    "devir": 54.0,
+    "verim": 88.0,
+    "gramaj": 270.0
+  },
+  "KRD224": {
+    "devir": 82.0,
+    "verim": 91.0,
+    "gramaj": 143.0
+  },
+  "KRN260": {
+    "devir": 64.0,
+    "verim": 88.0,
+    "gramaj": 200.0
+  },
+  "KRN299": {
+    "devir": 17.0,
+    "verim": 85.0,
+    "gramaj": 1100.0
+  },
+  "KYF70": {
+    "devir": 68.0,
+    "verim": 87.0,
+    "gramaj": 140.0
+  },
+  "KYF72": {
+    "devir": 50.0,
+    "verim": 85.0,
+    "gramaj": 260.0
+  },
+  "LAL244": {
+    "devir": 78.0,
+    "verim": 90.0,
+    "gramaj": 135.0
+  },
+  "LAL304": {
+    "devir": 95.0,
+    "verim": 85.0,
+    "gramaj": 96.0
+  },
+  "LAL344": {
+    "devir": 95.0,
+    "verim": 86.0,
+    "gramaj": 140.0
+  },
+  "LAL345": {
+    "devir": 63.0,
+    "verim": 82.0,
+    "gramaj": 225.0
+  },
+  "LAL354": {
+    "devir": 84.0,
+    "verim": 82.0,
+    "gramaj": 180.0
+  },
+  "LAL358": {
+    "devir": 63.0,
+    "verim": 86.0,
+    "gramaj": 230.0
+  },
+  "LAL361": {
+    "devir": 76.0,
+    "verim": 86.0,
+    "gramaj": 275.0
+  },
+  "LAL369": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 275.0
+  },
+  "LAL376": {
+    "devir": 72.0,
+    "verim": 83.0,
+    "gramaj": 278.0
+  },
+  "LAL506": {
+    "devir": 78.0,
+    "verim": 78.0,
+    "gramaj": 115.0
+  },
+  "LAL524": {
+    "devir": 63.0,
+    "verim": 81.0,
+    "gramaj": 225.0
+  },
+  "LAL545": {
+    "devir": 63.0,
+    "verim": 76.0,
+    "gramaj": 228.0
+  },
+  "LAL558": {
+    "devir": 63.0,
+    "verim": 82.0,
+    "gramaj": 230.0
+  },
+  "LAL569": {
+    "devir": 60.0,
+    "verim": 81.0,
+    "gramaj": 276.0
+  },
+  "LAL592": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 285.0
+  },
+  "LAR037": {
+    "devir": 205.0,
+    "verim": 75.0,
+    "gramaj": 208.0
+  },
+  "LAR100": {
+    "devir": 143.0,
+    "verim": 75.0,
+    "gramaj": 460.0
+  },
+  "LAR208": {
+    "devir": 180.0,
+    "verim": 88.0,
+    "gramaj": 135.0
+  },
+  "LBR308": {
+    "devir": 110.0,
+    "verim": 88.0,
+    "gramaj": 105.0
+  },
+  "LBR316": {
+    "devir": 86.0,
+    "verim": 86.0,
+    "gramaj": 244.0
+  },
+  "LBR317": {
+    "devir": 86.0,
+    "verim": 85.0,
+    "gramaj": 263.0
+  },
+  "LBR320": {
+    "devir": 90.0,
+    "verim": 89.0,
+    "gramaj": 250.0
+  },
+  "LBR340": {
+    "devir": 75.0,
+    "verim": 88.0,
+    "gramaj": 305.0
+  },
+  "LBR342": {
+    "devir": 75.0,
+    "verim": 82.0,
+    "gramaj": 306.0
+  },
+  "LBY397": {
+    "devir": 75.0,
+    "verim": 86.0,
+    "gramaj": 260.0
+  },
+  "LBY551": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 269.0
+  },
+  "LCA375": {
+    "devir": 73.0,
+    "verim": 85.0,
+    "gramaj": 310.0
+  },
+  "LGN364": {
+    "devir": 58.0,
+    "verim": 75.0,
+    "gramaj": 330.0
+  },
+  "LIL425": {
+    "devir": 55.0,
+    "verim": 75.0,
+    "gramaj": 265.0
+  },
+  "LIN120": {
+    "devir": 52.0,
+    "verim": 75.0,
+    "gramaj": 830.0
+  },
+  "LIN208": {
+    "devir": 180.0,
+    "verim": 89.0,
+    "gramaj": 135.0
+  },
+  "LIN226": {
+    "devir": 170.0,
+    "verim": 88.0,
+    "gramaj": 160.0
+  },
+  "LIZ279": {
+    "devir": 68.0,
+    "verim": 91.0,
+    "gramaj": 155.0
+  },
+  "LIZ421": {
+    "devir": 75.0,
+    "verim": 82.0,
+    "gramaj": 210.0
+  },
+  "LNA352": {
+    "devir": 73.0,
+    "verim": 84.0,
+    "gramaj": 224.0
+  },
+  "LNA373": {
+    "devir": 68.0,
+    "verim": 84.0,
+    "gramaj": 235.0
+  },
+  "LPS037": {
+    "devir": 205.0,
+    "verim": 81.0,
+    "gramaj": 210.0
+  },
+  "LPS058": {
+    "devir": 190.0,
+    "verim": 85.0,
+    "gramaj": 250.0
+  },
+  "LPS072": {
+    "devir": 183.0,
+    "verim": 87.0,
+    "gramaj": 300.0
+  },
+  "LPS10": {
+    "devir": 64.0,
+    "verim": 85.0,
+    "gramaj": 210.0
+  },
+  "LPS15": {
+    "devir": 60.0,
+    "verim": 84.0,
+    "gramaj": 272.0
+  },
+  "LPT328": {
+    "devir": 90.0,
+    "verim": 82.0,
+    "gramaj": 136.0
+  },
+  "LUN337": {
+    "devir": 73.0,
+    "verim": 88.0,
+    "gramaj": 270.0
+  },
+  "LUN355": {
+    "devir": 88.0,
+    "verim": 86.0,
+    "gramaj": 203.0
+  },
+  "LUN358": {
+    "devir": 72.0,
+    "verim": 88.0,
+    "gramaj": 325.0
+  },
+  "LİN120": {
+    "devir": 52.0,
+    "verim": 75.0,
+    "gramaj": 830.0
+  },
+  "MAR326": {
+    "devir": 98.0,
+    "verim": 86.0,
+    "gramaj": 102.0
+  },
+  "MAR336": {
+    "devir": 78.0,
+    "verim": 83.0,
+    "gramaj": 180.0
+  },
+  "MAR350": {
+    "devir": 73.0,
+    "verim": 84.0,
+    "gramaj": 245.0
+  },
+  "MAR370": {
+    "devir": 71.0,
+    "verim": 84.0,
+    "gramaj": 288.0
+  },
+  "MAY239": {
+    "devir": 86.0,
+    "verim": 90.0,
+    "gramaj": 120.0
+  },
+  "MAY242": {
+    "devir": 84.0,
+    "verim": 90.0,
+    "gramaj": 155.0
+  },
+  "MAY535": {
+    "devir": 65.0,
+    "verim": 82.0,
+    "gramaj": 206.0
+  },
+  "MAY552": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 225.0
+  },
+  "MAY560": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 282.0
+  },
+  "MDA620": {
+    "devir": 56.0,
+    "verim": 55.0,
+    "gramaj": 200.0
+  },
+  "MDA647": {
+    "devir": 56.0,
+    "verim": 55.0,
+    "gramaj": 285.0
+  },
+  "MDR237": {
+    "devir": 130.0,
+    "verim": 85.0,
+    "gramaj": 225.0
+  },
+  "MER066": {
+    "devir": 184.0,
+    "verim": 87.0,
+    "gramaj": 298.0
+  },
+  "MER072": {
+    "devir": 190.0,
+    "verim": 87.0,
+    "gramaj": 287.0
+  },
+  "MER100": {
+    "devir": 170.0,
+    "verim": 87.0,
+    "gramaj": 370.0
+  },
+  "MER200": {
+    "devir": 60.0,
+    "verim": 84.0,
+    "gramaj": 710.0
+  },
+  "MER300": {
+    "devir": 50.0,
+    "verim": 84.0,
+    "gramaj": 1010.0
+  },
+  "MER99": {
+    "devir": 11.0,
+    "verim": 30.0,
+    "gramaj": 1460.0
+  },
+  "MEV220": {
+    "devir": 170.0,
+    "verim": 88.0,
+    "gramaj": 160.0
+  },
+  "MEV954": {
+    "devir": 13.0,
+    "verim": 75.0,
+    "gramaj": 1220.0
+  },
+  "MHC473": {
+    "devir": 75.0,
+    "verim": 87.0,
+    "gramaj": 205.0
+  },
+  "MIA206": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 50.0
+  },
+  "MIA209": {
+    "devir": 84.0,
+    "verim": 91.0,
+    "gramaj": 105.0
+  },
+  "MIA210": {
+    "devir": 82.0,
+    "verim": 91.0,
+    "gramaj": 150.0
+  },
+  "MIA212": {
+    "devir": 76.0,
+    "verim": 91.0,
+    "gramaj": 220.0
+  },
+  "MIA217": {
+    "devir": 25.0,
+    "verim": 88.0,
+    "gramaj": 530.0
+  },
+  "MIA220": {
+    "devir": 20.0,
+    "verim": 88.0,
+    "gramaj": 800.0
+  },
+  "MIA226": {
+    "devir": 15.0,
+    "verim": 85.0,
+    "gramaj": 1700.0
+  },
+  "MIN271": {
+    "devir": 86.0,
+    "verim": 85.0,
+    "gramaj": 96.0
+  },
+  "MIS507": {
+    "devir": 75.0,
+    "verim": 75.0,
+    "gramaj": 170.0
+  },
+  "MIS509": {
+    "devir": 78.0,
+    "verim": 81.0,
+    "gramaj": 125.0
+  },
+  "MIS510": {
+    "devir": 73.0,
+    "verim": 81.0,
+    "gramaj": 173.0
+  },
+  "MIS521": {
+    "devir": 72.0,
+    "verim": 83.0,
+    "gramaj": 175.0
+  },
+  "MIS524": {
+    "devir": 72.0,
+    "verim": 80.0,
+    "gramaj": 158.0
+  },
+  "MIS535": {
+    "devir": 63.0,
+    "verim": 82.0,
+    "gramaj": 215.0
+  },
+  "MIS549": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 208.0
+  },
+  "MIS550": {
+    "devir": 61.0,
+    "verim": 77.0,
+    "gramaj": 250.0
+  },
+  "MIS552": {
+    "devir": 63.0,
+    "verim": 87.0,
+    "gramaj": 220.0
+  },
+  "MIS560": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 282.0
+  },
+  "MIS568": {
+    "devir": 58.0,
+    "verim": 85.0,
+    "gramaj": 250.0
+  },
+  "MIS571": {
+    "devir": 57.0,
+    "verim": 85.0,
+    "gramaj": 302.0
+  },
+  "MIS581": {
+    "devir": 60.0,
+    "verim": 76.0,
+    "gramaj": 288.0
+  },
+  "MIS586": {
+    "devir": 60.0,
+    "verim": 79.0,
+    "gramaj": 282.0
+  },
+  "MIS588": {
+    "devir": 64.0,
+    "verim": 75.0,
+    "gramaj": 270.0
+  },
+  "MIS590": {
+    "devir": 58.0,
+    "verim": 85.0,
+    "gramaj": 370.0
+  },
+  "MIS591": {
+    "devir": 56.0,
+    "verim": 82.0,
+    "gramaj": 370.0
+  },
+  "MJA272": {
+    "devir": 82.0,
+    "verim": 91.0,
+    "gramaj": 110.0
+  },
+  "MJA307": {
+    "devir": 92.0,
+    "verim": 83.0,
+    "gramaj": 140.0
+  },
+  "MLT30": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 335.0
+  },
+  "MLT50": {
+    "devir": 50.0,
+    "verim": 65.0,
+    "gramaj": 494.0
+  },
+  "MNA409": {
+    "devir": 80.0,
+    "verim": 86.0,
+    "gramaj": 190.0
+  },
+  "MON406": {
+    "devir": 65.0,
+    "verim": 80.0,
+    "gramaj": 290.0
+  },
+  "MRA279": {
+    "devir": 78.0,
+    "verim": 90.0,
+    "gramaj": 110.0
+  },
+  "MRA342": {
+    "devir": 82.0,
+    "verim": 88.0,
+    "gramaj": 155.0
+  },
+  "MST204": {
+    "devir": 88.0,
+    "verim": 88.0,
+    "gramaj": 49.0
+  },
+  "MST243": {
+    "devir": 82.0,
+    "verim": 90.0,
+    "gramaj": 175.0
+  },
+  "MST264": {
+    "devir": 70.0,
+    "verim": 86.0,
+    "gramaj": 250.0
+  },
+  "MST275": {
+    "devir": 31.0,
+    "verim": 84.0,
+    "gramaj": 400.0
+  },
+  "MST286": {
+    "devir": 22.0,
+    "verim": 81.0,
+    "gramaj": 660.0
+  },
+  "MST292": {
+    "devir": 15.0,
+    "verim": 35.2,
+    "gramaj": 1535.0
+  },
+  "NAR381": {
+    "devir": 60.0,
+    "verim": 84.0,
+    "gramaj": 287.0
+  },
+  "NAR381OPT": {
+    "devir": 60.0,
+    "verim": 84.0,
+    "gramaj": 287.0
+  },
+  "NEC14": {
+    "devir": 64.0,
+    "verim": 87.0,
+    "gramaj": 226.0
+  },
+  "NEC14OPT": {
+    "devir": 64.0,
+    "verim": 87.0,
+    "gramaj": 226.0
+  },
+  "NEC309": {
+    "devir": 82.0,
+    "verim": 85.0,
+    "gramaj": 126.0
+  },
+  "NEC346": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 208.0
+  },
+  "NEC346OPT": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 208.0
+  },
+  "NEH217": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "NEV512": {
+    "devir": 78.0,
+    "verim": 84.0,
+    "gramaj": 125.0
+  },
+  "NEV512OPT": {
+    "devir": 78.0,
+    "verim": 80.0,
+    "gramaj": 124.0
+  },
+  "NEV533": {
+    "devir": 62.0,
+    "verim": 86.0,
+    "gramaj": 240.0
+  },
+  "NEV533OPT": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 240.0
+  },
+  "NEV539": {
+    "devir": 63.0,
+    "verim": 83.0,
+    "gramaj": 221.0
+  },
+  "NEV557": {
+    "devir": 60.0,
+    "verim": 87.0,
+    "gramaj": 250.0
+  },
+  "NEV557OPT": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 250.0
+  },
+  "NEV567": {
+    "devir": 60.0,
+    "verim": 75.0,
+    "gramaj": 287.0
+  },
+  "NEV567OPT": {
+    "devir": 60.0,
+    "verim": 86.0,
+    "gramaj": 287.0
+  },
+  "NEV570": {
+    "devir": 58.0,
+    "verim": 86.0,
+    "gramaj": 275.0
+  },
+  "NEV570OPT": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 275.0
+  },
+  "NEV574": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 304.0
+  },
+  "NEV576": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 304.0
+  },
+  "NEZ315": {
+    "devir": 90.0,
+    "verim": 87.0,
+    "gramaj": 175.0
+  },
+  "NIS407": {
+    "devir": 80.0,
+    "verim": 87.0,
+    "gramaj": 185.0
+  },
+  "NOC325": {
+    "devir": 76.0,
+    "verim": 90.0,
+    "gramaj": 246.0
+  },
+  "NOC335": {
+    "devir": 73.0,
+    "verim": 91.0,
+    "gramaj": 278.0
+  },
+  "NON371": {
+    "devir": 67.0,
+    "verim": 85.0,
+    "gramaj": 351.0
+  },
+  "NOR231": {
+    "devir": 72.0,
+    "verim": 91.0,
+    "gramaj": 220.0
+  },
+  "NOR266": {
+    "devir": 54.0,
+    "verim": 88.0,
+    "gramaj": 270.0
+  },
+  "NRD306": {
+    "devir": 88.0,
+    "verim": 82.0,
+    "gramaj": 106.0
+  },
+  "NRD322": {
+    "devir": 75.0,
+    "verim": 82.0,
+    "gramaj": 188.0
+  },
+  "NRD335": {
+    "devir": 63.0,
+    "verim": 85.0,
+    "gramaj": 272.0
+  },
+  "NRD380": {
+    "devir": 63.0,
+    "verim": 87.0,
+    "gramaj": 313.0
+  },
+  "ODN267": {
+    "devir": 72.0,
+    "verim": 82.0,
+    "gramaj": 110.0
+  },
+  "ODN327": {
+    "devir": 85.0,
+    "verim": 85.0,
+    "gramaj": 138.0
+  },
+  "ODN420": {
+    "devir": 85.0,
+    "verim": 86.0,
+    "gramaj": 130.0
+  },
+  "ODN430": {
+    "devir": 70.0,
+    "verim": 86.0,
+    "gramaj": 300.0
+  },
+  "ODN431": {
+    "devir": 70.0,
+    "verim": 86.0,
+    "gramaj": 300.0
+  },
+  "ODN440": {
+    "devir": 58.0,
+    "verim": 84.0,
+    "gramaj": 350.0
+  },
+  "ODN441": {
+    "devir": 58.0,
+    "verim": 84.0,
+    "gramaj": 350.0
+  },
+  "ODN450": {
+    "devir": 65.0,
+    "verim": 83.0,
+    "gramaj": 250.0
+  },
+  "OFC470": {
+    "devir": 75.0,
+    "verim": 75.0,
+    "gramaj": 215.0
+  },
+  "OFC472": {
+    "devir": 75.0,
+    "verim": 80.0,
+    "gramaj": 230.0
+  },
+  "OLI269": {
+    "devir": 70.0,
+    "verim": 87.0,
+    "gramaj": 210.0
+  },
+  "OPA05": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 175.0
+  },
+  "OPL081": {
+    "devir": 180.0,
+    "verim": 85.0,
+    "gramaj": 310.0
+  },
+  "OPL290": {
+    "devir": 50.0,
+    "verim": 85.0,
+    "gramaj": 1015.0
+  },
+  "ORN319": {
+    "devir": 51.0,
+    "verim": 83.0,
+    "gramaj": 365.0
+  },
+  "ORN322": {
+    "devir": 72.0,
+    "verim": 83.0,
+    "gramaj": 255.0
+  },
+  "ORN335": {
+    "devir": 66.0,
+    "verim": 82.0,
+    "gramaj": 315.0
+  },
+  "ORN344": {
+    "devir": 66.0,
+    "verim": 81.0,
+    "gramaj": 290.0
+  },
+  "ORN382": {
+    "devir": 67.0,
+    "verim": 80.0,
+    "gramaj": 340.0
+  },
+  "ORN532": {
+    "devir": 60.0,
+    "verim": 78.0,
+    "gramaj": 251.0
+  },
+  "ORN542": {
+    "devir": 60.0,
+    "verim": 75.0,
+    "gramaj": 270.0
+  },
+  "ORN552": {
+    "devir": 62.0,
+    "verim": 81.0,
+    "gramaj": 264.0
+  },
+  "ORN572": {
+    "devir": 60.0,
+    "verim": 74.0,
+    "gramaj": 300.0
+  },
+  "ORN582": {
+    "devir": 55.0,
+    "verim": 72.0,
+    "gramaj": 340.0
+  },
+  "ORN892": {
+    "devir": 50.0,
+    "verim": 35.0,
+    "gramaj": 540.0
+  },
+  "PCA365": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 325.0
+  },
+  "PER05": {
+    "devir": 76.0,
+    "verim": 82.0,
+    "gramaj": 175.0
+  },
+  "PER15": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 250.0
+  },
+  "PER25": {
+    "devir": 54.0,
+    "verim": 70.0,
+    "gramaj": 307.0
+  },
+  "PET381": {
+    "devir": 86.0,
+    "verim": 85.0,
+    "gramaj": 202.0
+  },
+  "PGL341": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 270.0
+  },
+  "PKL240": {
+    "devir": 68.0,
+    "verim": 86.69,
+    "gramaj": 185.0
+  },
+  "PKU367": {
+    "devir": 57.0,
+    "verim": 79.0,
+    "gramaj": 397.0
+  },
+  "POM536": {
+    "devir": 63.0,
+    "verim": 75.0,
+    "gramaj": 232.0
+  },
+  "POM566": {
+    "devir": 62.0,
+    "verim": 84.0,
+    "gramaj": 241.0
+  },
+  "POM575": {
+    "devir": 59.0,
+    "verim": 80.0,
+    "gramaj": 295.0
+  },
+  "POM591": {
+    "devir": 56.0,
+    "verim": 75.0,
+    "gramaj": 339.0
+  },
+  "PPS020": {
+    "devir": 233.0,
+    "verim": 65.0,
+    "gramaj": 153.0
+  },
+  "PRA235": {
+    "devir": 54.0,
+    "verim": 90.0,
+    "gramaj": 275.0
+  },
+  "PRG332": {
+    "devir": 62.0,
+    "verim": 84.0,
+    "gramaj": 250.0
+  },
+  "PRG352": {
+    "devir": 62.0,
+    "verim": 84.0,
+    "gramaj": 263.0
+  },
+  "PRG372": {
+    "devir": 58.0,
+    "verim": 82.0,
+    "gramaj": 305.0
+  },
+  "PRS237": {
+    "devir": 130.0,
+    "verim": 85.0,
+    "gramaj": 225.0
+  },
+  "PSI366": {
+    "devir": 60.0,
+    "verim": 83.0,
+    "gramaj": 310.0
+  },
+  "PST266": {
+    "devir": 64.0,
+    "verim": 83.0,
+    "gramaj": 185.0
+  },
+  "PTK310": {
+    "devir": 95.0,
+    "verim": 88.0,
+    "gramaj": 155.0
+  },
+  "REN10": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 232.0
+  },
+  "REN20": {
+    "devir": 60.0,
+    "verim": 86.0,
+    "gramaj": 283.0
+  },
+  "RIO366": {
+    "devir": 67.0,
+    "verim": 85.0,
+    "gramaj": 282.0
+  },
+  "RIO380": {
+    "devir": 60.0,
+    "verim": 85.0,
+    "gramaj": 300.0
+  },
+  "RML312": {
+    "devir": 110.0,
+    "verim": 83.0,
+    "gramaj": 120.0
+  },
+  "RMS403": {
+    "devir": 85.0,
+    "verim": 89.0,
+    "gramaj": 110.0
+  },
+  "RMS410": {
+    "devir": 75.0,
+    "verim": 89.0,
+    "gramaj": 200.0
+  },
+  "RND211": {
+    "devir": 66.0,
+    "verim": 88.0,
+    "gramaj": 260.0
+  },
+  "RND214": {
+    "devir": 28.0,
+    "verim": 89.0,
+    "gramaj": 540.0
+  },
+  "RND217": {
+    "devir": 20.0,
+    "verim": 85.0,
+    "gramaj": 820.0
+  },
+  "RNG302": {
+    "devir": 103.0,
+    "verim": 80.0,
+    "gramaj": 96.0
+  },
+  "RNG321": {
+    "devir": 80.0,
+    "verim": 82.0,
+    "gramaj": 204.0
+  },
+  "RNG349": {
+    "devir": 63.0,
+    "verim": 83.0,
+    "gramaj": 295.0
+  },
+  "RNG363": {
+    "devir": 63.0,
+    "verim": 83.0,
+    "gramaj": 295.0
+  },
+  "ROM273": {
+    "devir": 72.0,
+    "verim": 82.0,
+    "gramaj": 140.0
+  },
+  "ROM275": {
+    "devir": 72.0,
+    "verim": 87.0,
+    "gramaj": 140.0
+  },
+  "ROM276": {
+    "devir": 76.0,
+    "verim": 88.0,
+    "gramaj": 130.0
+  },
+  "ROM336": {
+    "devir": 87.0,
+    "verim": 84.0,
+    "gramaj": 135.0
+  },
+  "ROM343": {
+    "devir": 82.0,
+    "verim": 87.0,
+    "gramaj": 221.0
+  },
+  "ROM396": {
+    "devir": 82.0,
+    "verim": 87.0,
+    "gramaj": 243.0
+  },
+  "ROM403": {
+    "devir": 85.0,
+    "verim": 89.0,
+    "gramaj": 110.0
+  },
+  "ROM404": {
+    "devir": 80.0,
+    "verim": 86.0,
+    "gramaj": 125.0
+  },
+  "ROM406": {
+    "devir": 80.0,
+    "verim": 89.0,
+    "gramaj": 147.0
+  },
+  "ROM410": {
+    "devir": 75.0,
+    "verim": 88.0,
+    "gramaj": 200.0
+  },
+  "RST356": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 309.0
+  },
+  "RST373": {
+    "devir": 55.0,
+    "verim": 70.0,
+    "gramaj": 370.0
+  },
+  "RST546": {
+    "devir": 64.0,
+    "verim": 70.0,
+    "gramaj": 270.0
+  },
+  "RST547": {
+    "devir": 62.0,
+    "verim": 78.0,
+    "gramaj": 280.0
+  },
+  "RST556": {
+    "devir": 62.0,
+    "verim": 75.0,
+    "gramaj": 309.0
+  },
+  "RST573": {
+    "devir": 57.0,
+    "verim": 72.0,
+    "gramaj": 365.0
+  },
+  "RST589": {
+    "devir": 54.0,
+    "verim": 72.0,
+    "gramaj": 380.0
+  },
+  "RYC387": {
+    "devir": 59.0,
+    "verim": 81.0,
+    "gramaj": 275.0
+  },
+  "SCH367": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 288.0
+  },
+  "SDF216": {
+    "devir": 170.0,
+    "verim": 88.0,
+    "gramaj": 160.0
+  },
+  "SED310": {
+    "devir": 130.0,
+    "verim": 86.0,
+    "gramaj": 98.0
+  },
+  "SED312": {
+    "devir": 110.0,
+    "verim": 89.0,
+    "gramaj": 120.0
+  },
+  "SEL225": {
+    "devir": 170.0,
+    "verim": 88.0,
+    "gramaj": 155.0
+  },
+  "SEN10": {
+    "devir": 76.0,
+    "verim": 82.23,
+    "gramaj": 190.0
+  },
+  "SEN15": {
+    "devir": 59.0,
+    "verim": 83.72,
+    "gramaj": 230.0
+  },
+  "SER82": {
+    "devir": 86.0,
+    "verim": 88.0,
+    "gramaj": 202.0
+  },
+  "SER85": {
+    "devir": 70.0,
+    "verim": 85.0,
+    "gramaj": 261.0
+  },
+  "SER87": {
+    "devir": 60.0,
+    "verim": 87.0,
+    "gramaj": 346.0
+  },
+  "SER89": {
+    "devir": 53.0,
+    "verim": 80.0,
+    "gramaj": 482.0
+  },
+  "SEV227": {
+    "devir": 170.0,
+    "verim": 88.0,
+    "gramaj": 155.0
+  },
+  "SEZ309": {
+    "devir": 88.0,
+    "verim": 81.0,
+    "gramaj": 145.0
+  },
+  "SFR037": {
+    "devir": 204.0,
+    "verim": 83.0,
+    "gramaj": 210.0
+  },
+  "SFR058": {
+    "devir": 192.0,
+    "verim": 83.0,
+    "gramaj": 250.0
+  },
+  "SFR072": {
+    "devir": 184.0,
+    "verim": 83.0,
+    "gramaj": 287.0
+  },
+  "SFR106": {
+    "devir": 150.0,
+    "verim": 83.0,
+    "gramaj": 380.0
+  },
+  "SHL224": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "SHL229": {
+    "devir": 88.0,
+    "verim": 91.0,
+    "gramaj": 170.0
+  },
+  "SLN201": {
+    "devir": 48.0,
+    "verim": 78.0,
+    "gramaj": 250.0
+  },
+  "SLN269": {
+    "devir": 70.0,
+    "verim": 90.0,
+    "gramaj": 250.0
+  },
+  "SLN272": {
+    "devir": 48.0,
+    "verim": 85.0,
+    "gramaj": 230.0
+  },
+  "SLN276": {
+    "devir": 40.0,
+    "verim": 85.0,
+    "gramaj": 350.0
+  },
+  "SLN71": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 95.0
+  },
+  "SLO620": {
+    "devir": 56.0,
+    "verim": 55.0,
+    "gramaj": 200.0
+  },
+  "SLO647": {
+    "devir": 56.0,
+    "verim": 55.0,
+    "gramaj": 285.0
+  },
+  "SNG210": {
+    "devir": 64.0,
+    "verim": 88.0,
+    "gramaj": 105.0
+  },
+  "SRD622": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 200.0
+  },
+  "SRD623": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 265.0
+  },
+  "SRD627": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 275.0
+  },
+  "SRD635": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 245.0
+  },
+  "SRD647": {
+    "devir": 60.0,
+    "verim": 70.0,
+    "gramaj": 280.0
+  },
+  "SRD658": {
+    "devir": 56.0,
+    "verim": 70.0,
+    "gramaj": 305.0
+  },
+  "SRD665": {
+    "devir": 56.0,
+    "verim": 70.0,
+    "gramaj": 305.0
+  },
+  "SRD675": {
+    "devir": 56.0,
+    "verim": 70.0,
+    "gramaj": 325.0
+  },
+  "SRG375": {
+    "devir": 60.0,
+    "verim": 83.0,
+    "gramaj": 420.0
+  },
+  "STELLA": {
+    "devir": 82.0,
+    "verim": 86.0,
+    "gramaj": 268.0
+  },
+  "STR529": {
+    "devir": 63.0,
+    "verim": 80.0,
+    "gramaj": 250.0
+  },
+  "STR550": {
+    "devir": 61.0,
+    "verim": 80.0,
+    "gramaj": 298.0
+  },
+  "STS390": {
+    "devir": 62.0,
+    "verim": 86.0,
+    "gramaj": 313.0
+  },
+  "SUD05": {
+    "devir": 91.0,
+    "verim": 88.0,
+    "gramaj": 160.0
+  },
+  "SUD15": {
+    "devir": 82.0,
+    "verim": 88.0,
+    "gramaj": 200.0
+  },
+  "SUD25": {
+    "devir": 83.0,
+    "verim": 85.0,
+    "gramaj": 223.0
+  },
+  "SUD315": {
+    "devir": 82.0,
+    "verim": 88.0,
+    "gramaj": 200.0
+  },
+  "SUD345": {
+    "devir": 75.0,
+    "verim": 86.0,
+    "gramaj": 295.0
+  },
+  "SUM311": {
+    "devir": 90.0,
+    "verim": 78.0,
+    "gramaj": 174.0
+  },
+  "SUM328": {
+    "devir": 85.0,
+    "verim": 78.0,
+    "gramaj": 180.0
+  },
+  "SUM330": {
+    "devir": 90.0,
+    "verim": 87.0,
+    "gramaj": 175.0
+  },
+  "SUM371": {
+    "devir": 80.0,
+    "verim": 81.0,
+    "gramaj": 240.0
+  },
+  "TAL333OPT": {
+    "devir": 62.0,
+    "verim": 86.0,
+    "gramaj": 240.0
+  },
+  "TAL357OPT": {
+    "devir": 60.0,
+    "verim": 88.0,
+    "gramaj": 255.0
+  },
+  "TAS055": {
+    "devir": 135.0,
+    "verim": 80.0,
+    "gramaj": 275.0
+  },
+  "TAS105": {
+    "devir": 80.5,
+    "verim": 80.0,
+    "gramaj": 450.0
+  },
+  "TEO347": {
+    "devir": 65.0,
+    "verim": 88.0,
+    "gramaj": 205.0
+  },
+  "TEO351": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 225.0
+  },
+  "TKA216": {
+    "devir": 48.0,
+    "verim": 85.0,
+    "gramaj": 355.0
+  },
+  "TKA218": {
+    "devir": 44.0,
+    "verim": 84.0,
+    "gramaj": 460.0
+  },
+  "TKA220": {
+    "devir": 22.0,
+    "verim": 83.0,
+    "gramaj": 550.0
+  },
+  "TKA222": {
+    "devir": 19.5,
+    "verim": 82.0,
+    "gramaj": 660.0
+  },
+  "TKA224": {
+    "devir": 18.0,
+    "verim": 82.0,
+    "gramaj": 770.0
+  },
+  "TKA226": {
+    "devir": 18.0,
+    "verim": 81.0,
+    "gramaj": 980.0
+  },
+  "TKA228": {
+    "devir": 16.0,
+    "verim": 80.0,
+    "gramaj": 1230.0
+  },
+  "TKA230": {
+    "devir": 14.0,
+    "verim": 80.0,
+    "gramaj": 1425.0
+  },
+  "TKD334": {
+    "devir": 82.0,
+    "verim": 83.0,
+    "gramaj": 172.0
+  },
+  "TLD348": {
+    "devir": 68.0,
+    "verim": 85.0,
+    "gramaj": 313.0
+  },
+  "TNG 318": {
+    "devir": 84.0,
+    "verim": 82.0,
+    "gramaj": 215.0
+  },
+  "TNG15": {
+    "devir": 67.0,
+    "verim": 86.0,
+    "gramaj": 300.0
+  },
+  "TOK272": {
+    "devir": 58.0,
+    "verim": 85.0,
+    "gramaj": 320.0
+  },
+  "TOK282": {
+    "devir": 24.0,
+    "verim": 85.0,
+    "gramaj": 450.0
+  },
+  "TOK287": {
+    "devir": 24.0,
+    "verim": 85.0,
+    "gramaj": 800.0
+  },
+  "TOK295": {
+    "devir": 20.0,
+    "verim": 85.0,
+    "gramaj": 1235.0
+  },
+  "TOK350": {
+    "devir": 70.0,
+    "verim": 90.0,
+    "gramaj": 226.0
+  },
+  "TOK352": {
+    "devir": 70.0,
+    "verim": 89.0,
+    "gramaj": 255.0
+  },
+  "TOK354": {
+    "devir": 58.0,
+    "verim": 83.0,
+    "gramaj": 307.0
+  },
+  "TOK520": {
+    "devir": 60.0,
+    "verim": 81.0,
+    "gramaj": 262.0
+  },
+  "TOK526": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 262.0
+  },
+  "TOK537": {
+    "devir": 59.0,
+    "verim": 74.0,
+    "gramaj": 231.0
+  },
+  "TOK561": {
+    "devir": 57.0,
+    "verim": 80.0,
+    "gramaj": 312.0
+  },
+  "TPL425": {
+    "devir": 85.0,
+    "verim": 80.0,
+    "gramaj": 155.0
+  },
+  "TPL435": {
+    "devir": 70.0,
+    "verim": 87.0,
+    "gramaj": 270.0
+  },
+  "TRA359": {
+    "devir": 76.0,
+    "verim": 80.0,
+    "gramaj": 180.0
+  },
+  "TRA367": {
+    "devir": 70.0,
+    "verim": 83.0,
+    "gramaj": 220.0
+  },
+  "TRA371": {
+    "devir": 62.0,
+    "verim": 80.0,
+    "gramaj": 275.0
+  },
+  "TRO329": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 195.0
+  },
+  "TRU140": {
+    "devir": 38.0,
+    "verim": 75.0,
+    "gramaj": 1055.0
+  },
+  "TRU248": {
+    "devir": 84.0,
+    "verim": 92.0,
+    "gramaj": 170.0
+  },
+  "TRU264": {
+    "devir": 80.0,
+    "verim": 90.0,
+    "gramaj": 230.0
+  },
+  "TRU276": {
+    "devir": 42.0,
+    "verim": 80.0,
+    "gramaj": 388.0
+  },
+  "TRU283": {
+    "devir": 25.0,
+    "verim": 85.0,
+    "gramaj": 640.0
+  },
+  "TRU290": {
+    "devir": 18.0,
+    "verim": 78.0,
+    "gramaj": 1380.0
+  },
+  "TRU309": {
+    "devir": 90.0,
+    "verim": 88.0,
+    "gramaj": 145.0
+  },
+  "TRU329": {
+    "devir": 70.0,
+    "verim": 70.0,
+    "gramaj": 195.0
+  },
+  "TRU338": {
+    "devir": 60.0,
+    "verim": 88.0,
+    "gramaj": 308.0
+  },
+  "TRU362": {
+    "devir": 58.0,
+    "verim": 87.0,
+    "gramaj": 320.0
+  },
+  "TUA05": {
+    "devir": 78.0,
+    "verim": 88.0,
+    "gramaj": 198.0
+  },
+  "TUA15": {
+    "devir": 66.0,
+    "verim": 87.0,
+    "gramaj": 276.0
+  },
+  "TUA25": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 275.0
+  },
+  "TUN180": {
+    "devir": 35.0,
+    "verim": 70.0,
+    "gramaj": 1200.0
+  },
+  "VEG226": {
+    "devir": 150.0,
+    "verim": 86.0,
+    "gramaj": 190.0
+  },
+  "VEG236": {
+    "devir": 124.0,
+    "verim": 86.0,
+    "gramaj": 240.0
+  },
+  "VEG247": {
+    "devir": 86.0,
+    "verim": 91.0,
+    "gramaj": 140.0
+  },
+  "VEG256": {
+    "devir": 96.0,
+    "verim": 83.0,
+    "gramaj": 325.0
+  },
+  "VEG267": {
+    "devir": 80.0,
+    "verim": 91.0,
+    "gramaj": 210.0
+  },
+  "VEG286": {
+    "devir": 25.0,
+    "verim": 85.0,
+    "gramaj": 600.0
+  },
+  "VEG296": {
+    "devir": 20.0,
+    "verim": 85.0,
+    "gramaj": 1160.0
+  },
+  "VEG297": {
+    "devir": 20.0,
+    "verim": 85.0,
+    "gramaj": 1025.0
+  },
+  "VEG409": {
+    "devir": 75.0,
+    "verim": 87.0,
+    "gramaj": 180.0
+  },
+  "VEG412": {
+    "devir": 70.0,
+    "verim": 87.0,
+    "gramaj": 245.0
+  },
+  "VEG422": {
+    "devir": 65.0,
+    "verim": 87.0,
+    "gramaj": 275.0
+  },
+  "VEG432": {
+    "devir": 60.0,
+    "verim": 87.0,
+    "gramaj": 325.0
+  },
+  "VEN541": {
+    "devir": 63.0,
+    "verim": 77.0,
+    "gramaj": 225.0
+  },
+  "VEN553": {
+    "devir": 64.0,
+    "verim": 84.0,
+    "gramaj": 230.0
+  },
+  "VEN568": {
+    "devir": 60.0,
+    "verim": 83.0,
+    "gramaj": 267.0
+  },
+  "VIR205": {
+    "devir": 84.0,
+    "verim": 87.0,
+    "gramaj": 70.0
+  },
+  "VIR245": {
+    "devir": 80.0,
+    "verim": 91.0,
+    "gramaj": 145.0
+  },
+  "VIR251": {
+    "devir": 74.0,
+    "verim": 85.0,
+    "gramaj": 145.0
+  },
+  "VIR261": {
+    "devir": 76.0,
+    "verim": 90.0,
+    "gramaj": 208.0
+  },
+  "VIR281": {
+    "devir": 28.0,
+    "verim": 87.0,
+    "gramaj": 550.0
+  },
+  "VIR291": {
+    "devir": 19.0,
+    "verim": 85.0,
+    "gramaj": 980.0
+  },
+  "VLR354": {
+    "devir": 74.0,
+    "verim": 84.0,
+    "gramaj": 205.0
+  },
+  "VLR374": {
+    "devir": 69.0,
+    "verim": 86.0,
+    "gramaj": 235.0
+  },
+  "VLS543": {
+    "devir": 60.0,
+    "verim": 78.0,
+    "gramaj": 272.0
+  },
+  "VLS559": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 270.0
+  },
+  "VLS564": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 300.0
+  },
+  "VLS584": {
+    "devir": 58.0,
+    "verim": 80.0,
+    "gramaj": 315.0
+  },
+  "VNO554": {
+    "devir": 60.0,
+    "verim": 80.0,
+    "gramaj": 250.0
+  },
+  "VNO575": {
+    "devir": 56.0,
+    "verim": 80.0,
+    "gramaj": 320.0
+  },
+  "VNS405": {
+    "devir": 80.0,
+    "verim": 87.0,
+    "gramaj": 175.0
+  },
+  "VNS460": {
+    "devir": 50.0,
+    "verim": 70.0,
+    "gramaj": 295.0
+  },
+  "VRA267": {
+    "devir": 78.0,
+    "verim": 90.0,
+    "gramaj": 110.0
+  },
+  "VRA327": {
+    "devir": 90.0,
+    "verim": 86.0,
+    "gramaj": 140.0
+  },
+  "VRA337": {
+    "devir": 78.0,
+    "verim": 85.0,
+    "gramaj": 213.0
+  },
+  "VRA357": {
+    "devir": 80.0,
+    "verim": 85.0,
+    "gramaj": 225.0
+  },
+  "VRA377": {
+    "devir": 71.0,
+    "verim": 85.0,
+    "gramaj": 264.0
+  },
+  "VRA889": {
+    "devir": 50.0,
+    "verim": 68.0,
+    "gramaj": 482.0
+  },
+  "WAV430": {
+    "devir": 65.0,
+    "verim": 85.0,
+    "gramaj": 345.0
+  },
+  "WAV440": {
+    "devir": 53.0,
+    "verim": 84.0,
+    "gramaj": 410.0
+  },
+  "WIN255": {
+    "devir": 52.0,
+    "verim": 62.94,
+    "gramaj": 310.0
+  },
+  "WIN265": {
+    "devir": 48.0,
+    "verim": 72.14,
+    "gramaj": 385.0
+  },
+  "WIN275": {
+    "devir": 27.5,
+    "verim": 51.73,
+    "gramaj": 492.0
+  },
+  "YKT037": {
+    "devir": 204.0,
+    "verim": 83.0,
+    "gramaj": 210.0
+  },
+  "YKT058": {
+    "devir": 192.0,
+    "verim": 83.0,
+    "gramaj": 250.0
+  },
+  "YKT072": {
+    "devir": 184.0,
+    "verim": 83.0,
+    "gramaj": 287.0
+  },
+  "YKT106": {
+    "devir": 150.0,
+    "verim": 83.0,
+    "gramaj": 380.0
+  },
+  "YNR331": {
+    "devir": 87.0,
+    "verim": 82.0,
+    "gramaj": 170.0
+  },
+  "YUD402": {
+    "devir": 85.0,
+    "verim": 88.0,
+    "gramaj": 140.0
+  },
+  "ZEN277": {
+    "devir": 78.0,
+    "verim": 90.0,
+    "gramaj": 145.0
+  },
+  "ZEN313": {
+    "devir": 82.0,
+    "verim": 88.0,
+    "gramaj": 208.0
+  },
+  "ZEN314": {
+    "devir": 86.0,
+    "verim": 84.0,
+    "gramaj": 188.0
+  },
+  "ZOE267": {
+    "devir": 82.0,
+    "verim": 92.0,
+    "gramaj": 110.0
+  },
+  "ZOE327": {
+    "devir": 82.0,
+    "verim": 84.0,
+    "gramaj": 137.0
+  },
+  "ZOE357": {
+    "devir": 64.0,
+    "verim": 85.0,
+    "gramaj": 275.0
+  },
+  "ZOE377": {
+    "devir": 59.0,
+    "verim": 85.0,
+    "gramaj": 315.0
+  },
+  "ZOE387": {
+    "devir": 56.0,
+    "verim": 84.0,
+    "gramaj": 355.0
+  },
+  "ZPC471": {
+    "devir": 65.0,
+    "verim": 85.0,
+    "gramaj": 285.0
+  },
+  "ZPL404": {
+    "devir": 67.0,
+    "verim": 90.0,
+    "gramaj": 285.0
+  }
+}
