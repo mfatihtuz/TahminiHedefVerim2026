@@ -61,26 +61,52 @@ class ProductData:
         if os.path.exists(PRODUCTS_FILE):
             try:
                 with open(PRODUCTS_FILE, 'r', encoding='utf-8') as f:
-                    self.products = json.load(f)
-            except:
+                    loaded = json.load(f)
+                # Bozuk/yanlış formatlı dosyaya karşı tip kontrolü
+                if isinstance(loaded, dict):
+                    self.products = loaded
+                else:
+                    print(f"UYARI: {PRODUCTS_FILE} beklenen dict formatında değil, sıfırlanıyor.")
+                    self.products = {}
+            except json.JSONDecodeError as e:
+                print(f"UYARI: {PRODUCTS_FILE} JSON ayrıştırma hatası: {e}")
+                self.products = {}
+            except OSError as e:
+                print(f"UYARI: {PRODUCTS_FILE} okunamadı: {e}")
                 self.products = {}
 
         if os.path.exists(HISTORICAL_FILE):
             try:
                 with open(HISTORICAL_FILE, 'r', encoding='utf-8') as f:
                     data = json.load(f)
+                if isinstance(data, list):
                     self.historical_data = pd.DataFrame(data)
-            except:
+                else:
+                    print(f"UYARI: {HISTORICAL_FILE} beklenen liste formatında değil, sıfırlanıyor.")
+                    self.historical_data = pd.DataFrame()
+            except json.JSONDecodeError as e:
+                print(f"UYARI: {HISTORICAL_FILE} JSON ayrıştırma hatası: {e}")
+                self.historical_data = pd.DataFrame()
+            except OSError as e:
+                print(f"UYARI: {HISTORICAL_FILE} okunamadı: {e}")
                 self.historical_data = pd.DataFrame()
 
     def save_products(self):
-        with open(PRODUCTS_FILE, 'w', encoding='utf-8') as f:
-            json.dump(self.products, f, ensure_ascii=False, indent=2)
+        try:
+            with open(PRODUCTS_FILE, 'w', encoding='utf-8') as f:
+                json.dump(self.products, f, ensure_ascii=False, indent=2)
+        except OSError as e:
+            print(f"HATA: Ürün verisi kaydedilemedi: {e}")
+            raise
 
     def save_historical(self):
-        data = self.historical_data.to_dict('records')
-        with open(HISTORICAL_FILE, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+        try:
+            data = self.historical_data.to_dict('records')
+            with open(HISTORICAL_FILE, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+        except OSError as e:
+            print(f"HATA: Geçmiş veri kaydedilemedi: {e}")
+            raise
 
     def process_product_table_data(self, table_widget):
         try:
@@ -277,9 +303,11 @@ class ProductionPlanTable(QTableWidget):
         if not new_prod:
             return
 
+        # Mevcut bayrağı koru (single_drop gibi metadata)
+        preserved = {k: v for k, v in info.items() if k not in ('product', 'duration')}
         self._remove_campaign(key)
         self._paint_segment(row, s, e, new_prod)
-        self.campaigns[(row, s, e)] = {'product': new_prod, 'duration': dur}
+        self.campaigns[(row, s, e)] = {'product': new_prod, 'duration': dur, **preserved}
         self.update_tonaj_totals()
 
     def dragEnterEvent(self, event):
@@ -338,7 +366,10 @@ class ProductionPlanTable(QTableWidget):
         İlgili HAT + ÜRÜN + (C9 tek/çift damla durumu) + (C5 özel tablo) dikkate alınarak
         devir, verim, gramaj döndürür.
         """
-        line = self.verticalHeaderItem(row).text()
+        hdr = self.verticalHeaderItem(row)
+        if hdr is None:
+            return 0.0, 0.0, 0.0, {"damla": "-"}
+        line = hdr.text()
         # Kapalı gün
         if product_name == self.CLOSED_TAG:
             return 0.0, 0.0, 0.0, {"damla": "-"}
@@ -506,12 +537,23 @@ class ProductionPlanTable(QTableWidget):
             event.acceptProposedAction()
 
     def add_campaign(self, row, start_col, product_name, duration):
+        if duration <= 0:
+            return
         end_col = min(start_col + duration - 1, self.columnCount() - 1)
+        if end_col < start_col:
+            return
 
-        # ... (mevcut çakışma kodları)
+        # --- Çakışan kampanyaları temizle ---
+        overlapping_keys = [
+            (r, s, e) for (r, s, e) in list(self.campaigns.keys())
+            if r == row and not (e < start_col or s > end_col)
+        ]
+        for key in overlapping_keys:
+            self._split_or_trim_campaign(key, start_col, end_col)
 
         # --- C9 ÖZEL SORU: MST243 harici ürünler için tek/çift damla? ---
-        line = self.verticalHeaderItem(row).text()
+        hdr = self.verticalHeaderItem(row)
+        line = hdr.text() if hdr is not None else ""
         single_drop = False
         if line == "C9" and product_name != "MST243":
             # Tarih aralığını kullanıcıya anlaşılır verelim
@@ -733,6 +775,8 @@ class ProductionPlanTable(QTableWidget):
             return
 
         product_name = info['product']
+        # single_drop ve diğer metadata'yı koru
+        meta = {k: v for k, v in info.items() if k not in ('product', 'duration')}
         self._remove_campaign(key)
 
         left_start = s
@@ -741,7 +785,8 @@ class ProductionPlanTable(QTableWidget):
             self._paint_segment(row, left_start, left_end, product_name)
             self.campaigns[(row, left_start, left_end)] = {
                 'product': product_name,
-                'duration': left_end - left_start + 1
+                'duration': left_end - left_start + 1,
+                **meta
             }
 
         right_start = max(new_end + 1, s)
@@ -750,7 +795,8 @@ class ProductionPlanTable(QTableWidget):
             self._paint_segment(row, right_start, right_end, product_name)
             self.campaigns[(row, right_start, right_end)] = {
                 'product': product_name,
-                'duration': right_end - right_start + 1
+                'duration': right_end - right_start + 1,
+                **meta
             }
         self.update_tonaj_totals()
 
@@ -1333,9 +1379,22 @@ class ProductionPlannerApp(QMainWindow):
         return {}
 
     def save_time_efficiencies(self):
-        settings = {'time_efficiencies': self.time_efficiencies}
-        with open(SETTINGS_FILE, 'w', encoding='utf-8') as f:
-            json.dump(settings, f, ensure_ascii=False, indent=2)
+        # Mevcut settings'ı oku → time_efficiencies'ı güncelle → geri yaz
+        # (ui/sidebar gibi diğer anahtarları silmemek için merge yapıyoruz)
+        settings = {}
+        if os.path.exists(SETTINGS_FILE):
+            try:
+                with open(SETTINGS_FILE, 'r', encoding='utf-8') as f:
+                    settings = json.load(f)
+            except (json.JSONDecodeError, OSError):
+                settings = {}
+        settings['time_efficiencies'] = self.time_efficiencies
+        try:
+            with open(SETTINGS_FILE, 'w', encoding='utf-8') as f:
+                json.dump(settings, f, ensure_ascii=False, indent=2)
+        except OSError as e:
+            from PyQt6.QtWidgets import QMessageBox
+            QMessageBox.warning(self, "Kayıt Hatası", f"Ayarlar kaydedilemedi: {e}")
 
     def load_existing_data(self):
         if self.product_data.products:
@@ -2034,11 +2093,7 @@ class ProductionPlannerApp(QMainWindow):
         # Fırın toplamlarını güncelle (A ve C toplam satırları)
         self.plan_table.update_tonaj_totals()
         self.plan_table.resizeRowsToContents()
-        self.plan_table.get_product_names = lambda: list(self.product_data.products.keys())  # YENİ
-        # self.plan_table.resolve_params = self._resolve_params  # YENİ: hat+ürün için parametre çözücü
-        # DEBUG: Toplam satırlarını kontrol et
-        print(f"A total row: {a_total_row}, C total row: {c_total_row}")
-        print(f"Total rows: {self.plan_table.rowCount()}")
+        self.plan_table.get_product_names = lambda: list(self.product_data.products.keys())
 
     def _wire_header_context_menu_once(self):
         hdr = self.plan_table.horizontalHeader()
@@ -3034,6 +3089,15 @@ class ProductionPlannerApp(QMainWindow):
             self, "Planı Kaydet", "", "JSON Files (*.json)"
         )
         if file_path:
+            # Row / col header erişiminde None guard
+            def _row_header(i):
+                hdr = self.plan_table.verticalHeaderItem(i)
+                return hdr.text() if hdr is not None else ""
+
+            def _col_header(i):
+                hdr = self.plan_table.horizontalHeaderItem(i)
+                return hdr.text() if hdr is not None else ""
+
             plan_data = {
                 'campaigns': [
                     {
@@ -3042,28 +3106,34 @@ class ProductionPlannerApp(QMainWindow):
                         'end_col': end,
                         'product': info['product'],
                         'duration': info['duration'],
-                        'single_drop': info.get('single_drop', None)
+                        'single_drop': info.get('single_drop', None),
+                        'realized_adetsel': info.get('realized_adetsel', None),
                     }
                     for (row, start, end), info in self.plan_table.campaigns.items()
+                ],
+                # tonaj_overrides: anahtarlar tuple, JSON için [row, col] listesine dönüştür
+                'tonaj_overrides': [
+                    {'row': r, 'col': c, 'value': v}
+                    for (r, c), v in self.plan_table.tonaj_overrides.items()
                 ],
                 'time_efficiencies': self.time_efficiencies,
                 'table_info': {
                     'rows': self.plan_table.rowCount(),
                     'cols': self.plan_table.columnCount(),
-                    'row_headers': [self.plan_table.verticalHeaderItem(i).text()
-                                    for i in range(self.plan_table.rowCount())],
-                    'col_headers': [self.plan_table.horizontalHeaderItem(i).text()
-                                    for i in range(self.plan_table.columnCount())]
+                    'row_headers': [_row_header(i) for i in range(self.plan_table.rowCount())],
+                    'col_headers': [_col_header(i) for i in range(self.plan_table.columnCount())]
                 },
                 'start_date': self.plan_start_date.isoformat(),
                 'end_date': self.plan_end_date.isoformat(),
             }
 
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(plan_data, f, ensure_ascii=False, indent=2)
-
-            QMessageBox.information(self, "Başarılı", "Plan kaydedildi!")
-            self.update_status_bar(f"Plan kaydedildi: {file_path}")
+            try:
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(plan_data, f, ensure_ascii=False, indent=2)
+                QMessageBox.information(self, "Başarılı", "Plan kaydedildi!")
+                self.update_status_bar(f"Plan kaydedildi: {file_path}")
+            except OSError as e:
+                QMessageBox.warning(self, "Kayıt Hatası", f"Plan kaydedilemedi: {e}")
 
     def view_products(self):
         if not self.product_data.products:
@@ -3209,7 +3279,18 @@ class ProductionPlannerApp(QMainWindow):
                     'single_drop': camp.get('single_drop', None)
                 }
 
-            # --- 4) Tonaj toplamlarını güncelle ---
+            # --- 4a) Tonaj override'larını geri yükle ---
+            self.plan_table.tonaj_overrides.clear()
+            for ov in plan_data.get('tonaj_overrides', []):
+                try:
+                    r = int(ov['row'])
+                    c = int(ov['col'])
+                    v = float(ov['value'])
+                    self.plan_table.tonaj_overrides[(r, c)] = v
+                except (KeyError, ValueError, TypeError):
+                    continue
+
+            # --- 4b) Tonaj toplamlarını güncelle ---
             self.plan_table.update_tonaj_totals()
 
             # --- 5) Zamansal verim ayarlarını yükle (DÜZELTİLEN KISIM) ---
